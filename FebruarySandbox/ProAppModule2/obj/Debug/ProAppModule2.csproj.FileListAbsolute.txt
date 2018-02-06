@@ -1,0 +1,11 @@
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2.csprojResolveAssemblyReference.cache
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\Dockpane1.g.cs
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2_MarkupCompile.cache
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2_MarkupCompile.lref
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\bin\Debug\ProAppModule2.dll
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\bin\Debug\ProAppModule2.pdb
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\Dockpane1.baml
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2.g.resources
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2.csproj.CoreCompileInputs.cache
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2.dll
+c:\users\fimpe\documents\visual studio 2017\Projects\ProAppModule2\ProAppModule2\obj\Debug\ProAppModule2.pdb
